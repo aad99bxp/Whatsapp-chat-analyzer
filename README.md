@@ -7,8 +7,6 @@ This project is intended for business owners who use Whatsapp as one of the comm
 ## Tools Used
 Jupyter Notebook, Pycharm, Heroku 
 
-## Tutorial
-I did this project from the playlist of ML Projects in CampusX Channel. The url of the video : https://www.youtube.com/watch?v=Q0QwvZKG_6Q
 
 ## What did I actually do in this project ?
 1. Preprocessing Of Whatsapp Chat
